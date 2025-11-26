@@ -32,7 +32,7 @@ AI/컴퓨터비전 분야를 공부하면서, 직접 만들어 보고 부딪히�
 
 ---
 
-## ✍️ 로그 & 회고
+## 📚 Blog
 
 - **Velog**: https://velog.io/@lova-clover  
 
