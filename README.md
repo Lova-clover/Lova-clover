@@ -1,14 +1,9 @@
 <!-- 상단 헤더 -->
 <p align="center">
   <img
-    src=""assets\lova-clover.png""
+    src=".\assets\lova-clover.png"
     alt="header"
   />
-</p>
-
-<p align="center">
-  <b>AI · Computer Vision · Backend</b><br/>
-  연세대학교 미래캠퍼스 소프트웨어학부 학사 수료
 </p>
 
 ---
