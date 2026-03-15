@@ -6,8 +6,6 @@
   />
 </p>
 
----
-
 ## 👋 About Me
 
 안녕하세요, Seongju(Lova-clover)입니다.  
