@@ -1,7 +1,7 @@
 <!-- 상단 헤더 -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:f5f7ff,100:cfe9ff&height=140&section=header&text=Lova-clover&fontSize=40&fontAlign=50&fontAlignY=70"
+    src=""assets\lova-clover.png""
     alt="header"
   />
 </p>
