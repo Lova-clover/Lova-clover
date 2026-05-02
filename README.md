@@ -73,12 +73,3 @@ AI / Computer Vision / 프로젝트 회고 등을
 **글과 코드 형태로 정리하여 공유하고 있습니다.**
 
 <br>
-
-<p align="left">
-<a href="https://solved.ac/woeg0228">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woeg0228"/>
-</a>
-</p>
-
-현재 solved.ac 기준 **Silver I**이며,      
-**Gold를 목표로 꾸준히 티어를 올리는 중입니다.**
